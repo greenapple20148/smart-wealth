@@ -18,7 +18,7 @@ const BuildCreditFast: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           <div className="absolute top-0 right-0 p-8 opacity-10 pointer-events-none text-9xl font-black italic">FAST</div>
           <h3 className="text-3xl font-black mb-6 mt-0 text-emerald-400 uppercase tracking-tighter">The Velocity Principle</h3>
           <p className="text-lg text-slate-300 leading-relaxed mb-0">
-            To build fast, you need a card that reports to all three bureaus every 30 days and offers an <strong>automatic graduation path</strong>. This ensures your "Secured" collateral converts to "Unsecured" reputation at maximum speed <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter">(The Motley Fool)</span>.
+            To build fast, you need a card that reports to all three bureaus every 30 days and offers an <strong>automatic graduation path</strong>. This ensures your "Secured" collateral converts to "Unsecured" reputation at maximum speed <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter"> </span>.
           </p>
         </div>
 

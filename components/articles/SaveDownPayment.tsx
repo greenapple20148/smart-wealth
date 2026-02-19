@@ -17,7 +17,7 @@ const SaveDownPayment: React.FC<{ onClose: () => void }> = ({ onClose }) => {
 
         <h3 className="text-2xl font-black text-slate-900 dark:text-white mt-12 mb-6 uppercase tracking-tight">Set a Clear, Realistic Goal</h3>
         <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-8">
-          The first step is knowing exactly what you're saving for. In 2024, the median down payment for first-time home buyers was <strong>9%</strong> <span className="text-[10px] font-black text-slate-400 uppercase tracking-tighter">(The Motley Fool)</span>. You don't necessarily need 20% down.
+          The first step is knowing exactly what you're saving for. In 2024, the median down payment for first-time home buyers was <strong>9%</strong> <span className="text-[10px] font-black text-slate-400 uppercase tracking-tighter"> </span>. You don't necessarily need 20% down.
         </p>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-12">

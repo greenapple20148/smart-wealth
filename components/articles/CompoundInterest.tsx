@@ -16,7 +16,7 @@ const CompoundInterest: React.FC<{ onClose: () => void }> = ({ onClose }) => {
 
         <h3 className="text-2xl font-black text-slate-900 dark:text-white mt-12 mb-6 uppercase tracking-tight">The Mathematical Force</h3>
         <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-8">
-          Compound interest is interest earned not only on your initial investment but also on the accumulated interest from previous periods <span className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-tighter">(The Motley Fool)</span>. Think of it as your money making money, which then makes even more money.
+          Compound interest is interest earned not only on your initial investment but also on the accumulated interest from previous periods <span className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-tighter"> </span>. Think of it as your money making money, which then makes even more money.
         </p>
 
         <div className="p-8 bg-slate-50 dark:bg-white/[0.03] border border-slate-200 dark:border-white/10 rounded-3xl mb-12 shadow-sm">

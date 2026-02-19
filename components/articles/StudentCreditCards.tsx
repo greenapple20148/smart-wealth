@@ -18,7 +18,7 @@ const StudentCreditCards: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           <div className="absolute top-0 right-0 p-8 opacity-10 pointer-events-none text-9xl font-black italic">ELITE</div>
           <h3 className="text-3xl font-black mb-6 mt-0 text-blue-400 uppercase tracking-tighter">The Student Advantage</h3>
           <p className="text-lg text-slate-300 leading-relaxed mb-0">
-            Student credit cards are specialized financial nodes. They bypass traditional income requirements by acknowledging your status as a "developing asset." They offer higher approval probabilities for beginners than almost any other product <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter">(The Motley Fool)</span>.
+            Student credit cards are specialized financial nodes. They bypass traditional income requirements by acknowledging your status as a "developing asset." They offer higher approval probabilities for beginners than almost any other product <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter"> </span>.
           </p>
         </div>
 

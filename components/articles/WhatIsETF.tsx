@@ -17,7 +17,7 @@ const WhatIsETF: React.FC<{ onClose: () => void }> = ({ onClose }) => {
 
         <h3 className="text-2xl font-black text-slate-900 dark:text-white mt-12 mb-6 uppercase tracking-tight">What Is an ETF?</h3>
         <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-8">
-          An ETF holds a collection of several stocks, bonds, commodities or a combination of these, and each share you purchase gives you a slice of all of them. This is an easy way to diversify your portfolio <span className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-tighter">(The Motley Fool)</span>.
+          An ETF holds a collection of several stocks, bonds, commodities or a combination of these, and each share you purchase gives you a slice of all of them. This is an easy way to diversify your portfolio <span className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-tighter"> </span>.
         </p>
 
         <div className="grid md:grid-cols-2 gap-6 mb-16">
@@ -67,7 +67,7 @@ const WhatIsETF: React.FC<{ onClose: () => void }> = ({ onClose }) => {
         <div className="p-12 bg-blue-600 text-white rounded-[3.5rem] text-center shadow-2xl shadow-blue-500/20 mb-20">
           <h4 className="text-3xl font-bold mb-6 mt-0">Strategic Verdict</h4>
           <p className="text-blue-50 text-xl leading-relaxed mb-0">
-            <strong>Absolutely.</strong> ETFs are great for experts and beginners alike. They're inexpensive, less risky than individual stocks <span className="text-[10px] font-black text-blue-300 uppercase tracking-tighter">(The Motley Fool)</span>, and provide a reliable path to building wealth by owning a piece of the entire economy's success.
+            <strong>Absolutely.</strong> ETFs are great for experts and beginners alike. They're inexpensive, less risky than individual stocks <span className="text-[10px] font-black text-blue-300 uppercase tracking-tighter"> </span>, and provide a reliable path to building wealth by owning a piece of the entire economy's success.
           </p>
         </div>
       </div>

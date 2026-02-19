@@ -19,7 +19,7 @@ const CryptoPulse: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           <div className="absolute top-0 right-0 p-8 opacity-10 pointer-events-none text-9xl font-black">BTC</div>
           <h3 className="text-2xl font-bold mb-6 mt-0 text-amber-500 uppercase tracking-widest">Digital Gold Logic</h3>
           <p className="text-lg text-slate-300 leading-relaxed mb-8">
-            Bitcoin's value proposition rests on its <strong>absolute scarcity</strong>. Only 21 million will ever exist. Unlike the U.S. dollar, which can be printed, Bitcoin is a mathematically enforced "hard money" asset <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter">(The Motley Fool)</span>.
+            Bitcoin's value proposition rests on its <strong>absolute scarcity</strong>. Only 21 million will ever exist. Unlike the U.S. dollar, which can be printed, Bitcoin is a mathematically enforced "hard money" asset <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter"> </span>.
           </p>
           <div className="grid sm:grid-cols-2 gap-6 relative z-10">
             <div className="bg-white/5 border border-white/10 p-6 rounded-2xl">

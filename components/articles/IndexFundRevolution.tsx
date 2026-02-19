@@ -70,7 +70,7 @@ const IndexFundRevolution: React.FC<{ onClose: () => void }> = ({ onClose }) => 
         <div className="p-10 bg-amber-50 dark:bg-amber-900/10 border border-amber-100 dark:border-amber-500/20 rounded-[3rem] mb-16 relative">
           <h4 className="text-xl font-bold text-amber-900 dark:text-amber-400 mb-4 mt-0">The 86% Overlap</h4>
           <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-0">
-            VTI is roughly <strong>86% VOO by weight</strong>. Because both are market-cap weighted, the giant companies (Apple, Microsoft, Nvidia) dominate both funds. If you own both, you are likely doubling up on the same top holdings <span className="text-[10px] font-black text-amber-600 uppercase tracking-tighter">(The Motley Fool)</span>.
+            VTI is roughly <strong>86% VOO by weight</strong>. Because both are market-cap weighted, the giant companies (Apple, Microsoft, Nvidia) dominate both funds. If you own both, you are likely doubling up on the same top holdings <span className="text-[10px] font-black text-amber-600 uppercase tracking-tighter"> </span>.
           </p>
         </div>
 

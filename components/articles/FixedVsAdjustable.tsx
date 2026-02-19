@@ -42,7 +42,7 @@ const FixedVsAdjustable: React.FC<{ onClose: () => void }> = ({ onClose }) => {
 
         <h3 className="text-2xl font-black text-slate-900 dark:text-white mt-12 mb-6 uppercase tracking-tight">Adjustable-Rate Mortgages (ARMs): Lower Rates, Higher Risk</h3>
         <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-8">
-          With an adjustable-rate mortgage, the interest rate may go up or down <span className="text-[10px] font-black text-slate-400 uppercase tracking-tighter">(NerdWallet)</span>. You may hear these referred to as <strong>variable-rate mortgages</strong> <span className="text-[10px] font-black text-slate-400 uppercase tracking-tighter">(The Motley Fool)</span>.
+          With an adjustable-rate mortgage, the interest rate may go up or down <span className="text-[10px] font-black text-slate-400 uppercase tracking-tighter">(NerdWallet)</span>. You may hear these referred to as <strong>variable-rate mortgages</strong> <span className="text-[10px] font-black text-slate-400 uppercase tracking-tighter"> </span>.
         </p>
 
         <div className="bg-slate-950 text-white rounded-[3rem] p-10 sm:p-16 mb-16 relative overflow-hidden shadow-2xl">

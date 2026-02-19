@@ -94,7 +94,7 @@ const MultipleCardApps: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           <div className="p-10 bg-emerald-50 dark:bg-emerald-950/20 border border-emerald-100 dark:border-emerald-500/20 rounded-[2.5rem] shadow-sm group">
             <h4 className="text-xl font-black text-emerald-600 mb-4 uppercase text-xs tracking-widest">6-Month Protocol</h4>
             <p className="text-sm text-slate-700 dark:text-slate-300 leading-relaxed m-0">
-              The <strong>Golden Standard</strong>. At 6 months, the negative impact of inquiries diminishes significantly, and you've established clear payment data <span className="text-[10px] font-black opacity-50 uppercase">(The Motley Fool)</span>.
+              The <strong>Golden Standard</strong>. At 6 months, the negative impact of inquiries diminishes significantly, and you've established clear payment data <span className="text-[10px] font-black opacity-50 uppercase"> </span>.
             </p>
           </div>
         </div>

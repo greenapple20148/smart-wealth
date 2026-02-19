@@ -16,7 +16,7 @@ const RothIRAVsTraditional: React.FC<{ onClose: () => void }> = ({ onClose }) =>
 
         <h3 className="text-2xl font-black text-slate-900 dark:text-white mt-12 mb-6 uppercase tracking-tight">The Taxation Split</h3>
         <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-8">
-          With a traditional IRA, you're able to make contributions with pre-tax dollars, reducing your taxable income for that year. However, withdrawals from a Roth IRA are tax-free, whereas funds from a traditional IRA will be taxed at the time you make a withdrawal <span className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-tighter">(The Motley Fool)</span>.
+          With a traditional IRA, you're able to make contributions with pre-tax dollars, reducing your taxable income for that year. However, withdrawals from a Roth IRA are tax-free, whereas funds from a traditional IRA will be taxed at the time you make a withdrawal <span className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-tighter"> </span>.
         </p>
         
         <div className="grid sm:grid-cols-2 gap-8 mb-16">

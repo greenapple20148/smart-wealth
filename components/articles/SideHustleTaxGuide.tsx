@@ -77,7 +77,7 @@ const SideHustleTaxGuide: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           <div className="absolute right-0 top-0 p-8 opacity-20 pointer-events-none text-9xl">🛑</div>
           <h3 className="text-2xl font-bold mb-6 mt-0 text-amber-900 dark:text-amber-400">The 1099-K Reporting Rule</h3>
           <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-0">
-            Digital payment platforms like Venmo, PayPal, and CashApp will send you a 1099-K if your business transactions exceed <strong>$5,000</strong> annually in 2026 <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter">(The Motley Fool)</span>. The IRS gets a copy of this form, so ensure your bookkeeping matches.
+            Digital payment platforms like Venmo, PayPal, and CashApp will send you a 1099-K if your business transactions exceed <strong>$5,000</strong> annually in 2026 <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter"> </span>. The IRS gets a copy of this form, so ensure your bookkeeping matches.
           </p>
         </div>
 

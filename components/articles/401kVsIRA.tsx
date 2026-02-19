@@ -21,7 +21,7 @@ const Retirement401kVsIRA: React.FC<{ onClose: () => void }> = ({ onClose }) => 
           <div className="space-y-12 relative z-10">
             {[
               { step: "01", title: "Capture the Match", color: "text-blue-400", desc: "Enroll in your company's 401(k) and contribute exactly enough to get the full employer match. This is an immediate 100% ROI <span class='text-[10px] font-black text-slate-500 uppercase tracking-tighter'>(NerdWallet)</span>." },
-              { step: "02", title: "The IRA Pivot", color: "text-emerald-400", desc: "Max out your Roth or Traditional IRA. IRAs typically offer <strong>lower fees</strong> and <strong>better investment selection</strong> than restrictive company plans <span class='text-[10px] font-black text-slate-500 uppercase tracking-tighter'>(The Motley Fool)</span>." },
+              { step: "02", title: "The IRA Pivot", color: "text-emerald-400", desc: "Max out your Roth or Traditional IRA. IRAs typically offer <strong>lower fees</strong> and <strong>better investment selection</strong> than restrictive company plans <span class='text-[10px] font-black text-slate-500 uppercase tracking-tighter'> </span>." },
               { step: "03", title: "Return to the 401(k)", color: "text-amber-400", desc: "If you still have capital to deploy, go back to your 401(k) and contribute toward the annual limit for additional tax-deferred growth." }
             ].map((item, i) => (
               <div key={i} className="flex gap-8 items-start group">

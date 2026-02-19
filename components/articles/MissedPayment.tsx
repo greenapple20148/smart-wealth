@@ -48,7 +48,7 @@ const MissedPayment: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             <div className="flex items-center justify-center w-12 h-12 rounded-2xl bg-slate-950 text-white font-black text-xs shadow-xl shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2 z-10 border border-white/10">60</div>
             <div className="w-[calc(100%-4rem)] md:w-[calc(50%-3rem)] p-8 bg-white dark:bg-zinc-900 border border-slate-100 dark:border-white/5 rounded-[2.5rem] shadow-sm">
               <h4 className="font-black text-slate-900 dark:text-white mb-2 m-0 uppercase tracking-widest text-[10px] text-amber-500">Penalty Protocol</h4>
-              <p className="text-sm text-slate-600 dark:text-slate-400 m-0 leading-relaxed font-medium">Penalty APR (~29.99%) may be applied to your balance permanently. Current reward points may be forfeited <span className="text-[10px] font-black opacity-50 uppercase">(The Motley Fool)</span>.</p>
+              <p className="text-sm text-slate-600 dark:text-slate-400 m-0 leading-relaxed font-medium">Penalty APR (~29.99%) may be applied to your balance permanently. Current reward points may be forfeited <span className="text-[10px] font-black opacity-50 uppercase"> </span>.</p>
             </div>
           </div>
 

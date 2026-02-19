@@ -51,7 +51,7 @@ const BestCreditCards: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             <div>
               <h4 className="text-xl font-bold text-white mb-2">Capital One Savor Student</h4>
               <p className="text-slate-300 leading-relaxed m-0">
-                Stands out for offering 1 - 8% cash back on purchases <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter">(The Motley Fool)</span> with no annual fee. Includes a $50 bonus after spending $100 in the first three months.
+                Stands out for offering 1 - 8% cash back on purchases <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter"> </span> with no annual fee. Includes a $50 bonus after spending $100 in the first three months.
               </p>
             </div>
             <div className="w-full h-px bg-white/10"></div>

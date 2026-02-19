@@ -24,7 +24,7 @@ const BestRothIRA: React.FC<{ onClose: () => void }> = ({ onClose }) => {
               <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-400 text-[10px] font-black uppercase tracking-widest rounded-full">Best for Research</span>
             </div>
             <p className="text-base text-slate-600 dark:text-slate-400 leading-relaxed mb-4">
-              Schwab is NerdWallet's pick for the best online broker for IRA investors <span className="text-[10px] font-black opacity-50 uppercase">(The Motley Fool)</span>. It offers commission-free trading on stocks, options, and ETFs with no account minimums.
+              Schwab is NerdWallet's pick for the best online broker for IRA investors <span className="text-[10px] font-black opacity-50 uppercase"> </span>. It offers commission-free trading on stocks, options, and ETFs with no account minimums.
             </p>
             <ul className="text-sm text-slate-500 dark:text-slate-400 space-y-2 mb-0 list-disc pl-5 font-medium">
               <li>Large selection of no-transaction-fee mutual funds.</li>
@@ -107,13 +107,13 @@ const BestRothIRA: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             <div>
               <p className="font-bold text-white mb-1">Contribution Limits</p>
               <p className="text-sm text-slate-300 leading-relaxed m-0">
-                You can contribute up to <strong>$7,500 in 2026</strong>, or <strong>$8,600</strong> if you're 50 or older <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter">(The Motley Fool)</span>. Deadline for 2025 contributions is April 15, 2026.
+                You can contribute up to <strong>$7,500 in 2026</strong>, or <strong>$8,600</strong> if you're 50 or older <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter"> </span>. Deadline for 2025 contributions is April 15, 2026.
               </p>
             </div>
             <div>
               <p className="font-bold text-white mb-1">Income Limits</p>
               <p className="text-sm text-slate-300 leading-relaxed m-0">
-                Phasing out starts at MAGI of <strong>$153,000</strong> (single) and <strong>$242,000</strong> (married joint) <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter">(The Motley Fool)</span>.
+                Phasing out starts at MAGI of <strong>$153,000</strong> (single) and <strong>$242,000</strong> (married joint) <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter"> </span>.
               </p>
             </div>
           </div>

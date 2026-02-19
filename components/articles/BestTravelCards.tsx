@@ -18,7 +18,7 @@ const BestTravelCards: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           <div className="absolute top-0 right-0 p-8 opacity-10 pointer-events-none text-9xl font-black italic">WINGS</div>
           <h3 className="text-3xl font-black mb-6 mt-0 text-cyan-400 uppercase tracking-tighter">The Travel Alpha</h3>
           <p className="text-lg text-slate-300 leading-relaxed mb-0">
-            For beginners, general travel cards offer the most flexibility since your rewards aren't tied to a single airline or hotel chain. You can use them for any type of travel expense—flights, hotels, rental cars, or even rideshares <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter">(The Motley Fool)</span>.
+            For beginners, general travel cards offer the most flexibility since your rewards aren't tied to a single airline or hotel chain. You can use them for any type of travel expense—flights, hotels, rental cars, or even rideshares <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter"> </span>.
           </p>
         </div>
 
@@ -73,7 +73,7 @@ const BestTravelCards: React.FC<{ onClose: () => void }> = ({ onClose }) => {
         <h3 className="text-2xl font-black text-slate-900 dark:text-white mb-10 text-center uppercase tracking-widest">Logic Filters: Evaluation Matrix</h3>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
           {[
-            { icon: "🔄", title: "Flexibility", desc: "Redeem for credits, portal bookings, or transfers <span class='text-[9px] font-black'>(The Motley Fool)</span>." },
+            { icon: "🔄", title: "Flexibility", desc: "Redeem for credits, portal bookings, or transfers <span class='text-[9px] font-black'> </span>." },
             { icon: "📈", title: "Simple Earning", desc: "Flat-rate or straightforward categories avoid complexity." },
             { icon: "💵", title: "Low Fee", desc: "Stick to $0 or $95 fees while learning the system." },
             { icon: "🤝", title: "Partners", desc: "Transfer to airlines/hotels for potentially 2x value." },

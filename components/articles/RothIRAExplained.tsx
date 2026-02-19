@@ -16,7 +16,7 @@ const RothIRAExplained: React.FC<{ onClose: () => void }> = ({ onClose }) => {
 
         <h3 className="text-2xl font-black text-slate-900 dark:text-white mt-12 mb-6 uppercase tracking-tight">The Core Alpha</h3>
         <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-8">
-          Unlike traditional retirement accounts where you get a tax deduction now and pay taxes later, a Roth IRA works in reverse. You contribute money that's already been taxed today, but then your investments grow completely tax-free, and you pay zero taxes on withdrawals in retirement <span className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-tighter">(The Motley Fool)</span>.
+          Unlike traditional retirement accounts where you get a tax deduction now and pay taxes later, a Roth IRA works in reverse. You contribute money that's already been taxed today, but then your investments grow completely tax-free, and you pay zero taxes on withdrawals in retirement <span className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-tighter"> </span>.
         </p>
 
         <div className="p-10 bg-slate-950 text-white rounded-[3rem] border border-white/10 mb-16 relative overflow-hidden shadow-2xl">
@@ -51,7 +51,7 @@ const RothIRAExplained: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           <div className="p-8 bg-slate-50 dark:bg-white/[0.03] border border-slate-200 dark:border-white/10 rounded-[2.5rem] relative overflow-hidden group">
             <h4 className="font-black text-slate-900 dark:text-white mb-4 uppercase tracking-widest text-[10px] text-emerald-500">Income Limits</h4>
             <p className="text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-4">
-              Ability to contribute depends on your Modified Adjusted Gross Income (MAGI) <span className="text-[10px] font-black opacity-50 uppercase">(The Motley Fool)</span>.
+              Ability to contribute depends on your Modified Adjusted Gross Income (MAGI) <span className="text-[10px] font-black opacity-50 uppercase"> </span>.
             </p>
             <div className="space-y-3">
               <div className="flex justify-between text-xs font-bold p-3 bg-white dark:bg-slate-900 rounded-xl border dark:border-white/5">

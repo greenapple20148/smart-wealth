@@ -30,7 +30,7 @@ const BestCards600: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             <p className="text-emerald-500 font-black text-[10px] uppercase tracking-widest mb-2">Top Recommendation</p>
             <h4 className="text-xl font-black text-slate-900 dark:text-white mb-4 uppercase">Discover it® Secured</h4>
             <p className="text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-6">
-              The gold standard for the 600-range. Earns 2% cash back at gas stations and restaurants. Automatic reviews starting at <strong>7 months</strong> to graduate to an unsecured line <span className="text-[10px] font-black opacity-50 uppercase">(The Motley Fool)</span>.
+              The gold standard for the 600-range. Earns 2% cash back at gas stations and restaurants. Automatic reviews starting at <strong>7 months</strong> to graduate to an unsecured line <span className="text-[10px] font-black opacity-50 uppercase"> </span>.
             </p>
             <div className="flex gap-2">
               <span className="px-3 py-1 bg-emerald-50 dark:bg-emerald-900/20 text-[10px] font-black text-emerald-600 uppercase rounded-lg">High Probability Approval</span>

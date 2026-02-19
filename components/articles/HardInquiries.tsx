@@ -71,7 +71,7 @@ const HardInquiries: React.FC<{ onClose: () => void }> = ({ onClose }) => {
               <li className="flex items-center gap-2"><span className="text-emerald-500">✓</span> Employer background checks</li>
               <li className="flex items-center gap-2"><span className="text-emerald-500">✓</span> Insurance quotes</li>
             </ul>
-            <p className="mt-6 text-[10px] font-black text-emerald-600 italic">Result: Zero impact on credit score <span className="opacity-50">(The Motley Fool)</span>.</p>
+            <p className="mt-6 text-[10px] font-black text-emerald-600 italic">Result: Zero impact on credit score <span className="opacity-50"> </span>.</p>
           </div>
         </div>
 

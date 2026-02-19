@@ -57,7 +57,7 @@ const HowMuchHomeAfford: React.FC<{ onClose: () => void }> = ({ onClose }) => {
 
         <h3 className="text-2xl font-black text-slate-900 dark:text-white mt-12 mb-6 uppercase tracking-tight">The Interest Rate Multiplier</h3>
         <p className="text-slate-600 dark:text-slate-400 mb-8 leading-relaxed">
-          The difference between a 6% interest rate and a 7% rate equals approximately $2,000 annually on a $200,000 home—that's <strong>$60,000 over a 30-year mortgage</strong>. For someone making $50K per year, that's more than an entire year's gross salary <span className="text-[10px] font-black text-slate-400 uppercase tracking-tighter">(The Motley Fool)</span>.
+          The difference between a 6% interest rate and a 7% rate equals approximately $2,000 annually on a $200,000 home—that's <strong>$60,000 over a 30-year mortgage</strong>. For someone making $50K per year, that's more than an entire year's gross salary <span className="text-[10px] font-black text-slate-400 uppercase tracking-tighter"> </span>.
         </p>
 
         <h3 className="text-2xl font-black text-slate-900 dark:text-white mb-8 text-center uppercase tracking-widest">5 Key Affordability Factors</h3>
@@ -98,7 +98,7 @@ const HowMuchHomeAfford: React.FC<{ onClose: () => void }> = ({ onClose }) => {
         <div className="space-y-4 mb-16">
           {[
             { title: "Kill Debt First", icon: "✂️", desc: "Paying off a $500/mo car loan reduces your DTI by 12% on a $50k salary, instantly boosting your range <span class='text-[10px] font-black opacity-50'>(Gainify)</span>." },
-            { title: "Optimize Credit Score", icon: "🚀", desc: "Keep balances below 30% and ensure all payments are on time for 6+ months before applying <span class='text-[10px] font-black opacity-50'>(The Motley Fool)</span>." },
+            { title: "Optimize Credit Score", icon: "🚀", desc: "Keep balances below 30% and ensure all payments are on time for 6+ months before applying <span class='text-[10px] font-black opacity-50'> </span>." },
             { title: "Assistance Programs", icon: "🎁", desc: "State and county DPA programs offer $5k-$15k in grants or forgivable loans for first-time buyers <span class='text-[10px] font-black opacity-50'>(Change)</span>." },
             { title: "Market Selection", icon: "🗺️", desc: "Look at areas that are less 'hot' but meet your basic needs to maximize your $50k leverage <span class='text-[10px] font-black opacity-50'>(Gainify)</span>." }
           ].map((item, i) => (

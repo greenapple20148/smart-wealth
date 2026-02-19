@@ -63,7 +63,7 @@ const TaxLossHarvesting: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           <div className="absolute right-0 top-0 p-8 opacity-20 pointer-events-none text-9xl">🚫</div>
           <h3 className="text-2xl font-bold mb-6 mt-0 text-rose-900 dark:text-rose-400">The "Wash-Sale" Trap</h3>
           <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-6">
-            You cannot sell a stock for a loss and then buy the <strong>same or a "substantially identical"</strong> stock within 30 days before or after the sale <span className="text-[10px] font-black text-rose-500 uppercase tracking-tighter">(The Motley Fool)</span>.
+            You cannot sell a stock for a loss and then buy the <strong>same or a "substantially identical"</strong> stock within 30 days before or after the sale <span className="text-[10px] font-black text-rose-500 uppercase tracking-tighter"> </span>.
           </p>
           <p className="text-sm text-slate-500 dark:text-slate-400 m-0">
             If you trigger a wash-sale, the IRS will disallow the tax loss, defeating the entire purpose of the strategy.

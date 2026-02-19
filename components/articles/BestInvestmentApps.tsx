@@ -40,7 +40,7 @@ const BestInvestmentApps: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           <div className="grid md:grid-cols-2 gap-8">
             <div className="p-8 bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-white/5 rounded-3xl">
               <h4 className="text-lg font-bold text-slate-900 dark:text-white mb-2">Charles Schwab</h4>
-              <p className="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">Combines a trusted name with an approachable platform <span className="text-[10px] font-black opacity-50 uppercase">(The Motley Fool)</span>. Features zero-commission trades, clear educational tools, and simple account setup.</p>
+              <p className="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">Combines a trusted name with an approachable platform <span className="text-[10px] font-black opacity-50 uppercase"> </span>. Features zero-commission trades, clear educational tools, and simple account setup.</p>
             </div>
             <div className="p-8 bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-white/5 rounded-3xl">
               <h4 className="text-lg font-bold text-slate-900 dark:text-white mb-2">SoFi Invest</h4>

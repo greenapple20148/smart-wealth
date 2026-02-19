@@ -42,7 +42,7 @@ const CreditUtilization: React.FC<{ onClose: () => void }> = ({ onClose }) => {
         <div className="p-10 bg-slate-50 dark:bg-white/[0.03] border border-slate-200 dark:border-white/10 rounded-[3rem] mb-16 shadow-sm group">
           <h4 className="text-xl font-bold text-blue-600 mb-4 mt-0 uppercase tracking-widest text-xs">The Statement Date Loop</h4>
           <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-0">
-            Lenders report your balance on the <strong>Statement Closing Date</strong>, not the due date. Pay your balance 3 days BEFORE the statement closes to report a 1% utilization, even if you spent thousands that month <span className="text-[10px] font-black text-blue-400 uppercase tracking-tighter">(The Motley Fool)</span>.
+            Lenders report your balance on the <strong>Statement Closing Date</strong>, not the due date. Pay your balance 3 days BEFORE the statement closes to report a 1% utilization, even if you spent thousands that month <span className="text-[10px] font-black text-blue-400 uppercase tracking-tighter"> </span>.
           </p>
         </div>
 

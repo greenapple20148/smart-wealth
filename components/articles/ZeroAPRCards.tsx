@@ -58,7 +58,7 @@ const ZeroAPRCards: React.FC<{ onClose: () => void }> = ({ onClose }) => {
              <div>
                 <h4 className="text-xl font-black text-blue-900 dark:text-white mb-2 uppercase m-0">Chase Freedom Unlimited®</h4>
                 <p className="text-sm text-slate-700 dark:text-slate-300 leading-relaxed m-0">
-                  The ultimate hybrid. <strong>15 months</strong> of 0% APR while earning 1.5% to 5% cash back. Includes a $200 bonus after moderate spend <span className="text-[10px] font-black text-blue-500 uppercase tracking-tighter">(The Motley Fool)</span>.
+                  The ultimate hybrid. <strong>15 months</strong> of 0% APR while earning 1.5% to 5% cash back. Includes a $200 bonus after moderate spend <span className="text-[10px] font-black text-blue-500 uppercase tracking-tighter"> </span>.
                 </p>
              </div>
           </div>
