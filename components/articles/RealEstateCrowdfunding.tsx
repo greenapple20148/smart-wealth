@@ -19,7 +19,7 @@ const RealEstateCrowdfunding: React.FC<{ onClose: () => void }> = ({ onClose }) 
           <div className="absolute top-0 right-0 p-8 opacity-10 pointer-events-none text-9xl">🏛️</div>
           <h3 className="text-2xl font-bold mb-6 mt-0 text-cyan-400 uppercase tracking-widest">How Crowdfunding Works</h3>
           <p className="text-lg text-slate-300 leading-relaxed mb-8">
-            Platform "sponsors" identify properties, manage them, and collect rent. You buy shares in a <strong>REIT</strong> (Real Estate Investment Trust) or a specific property LLC, receiving your portion of the income and appreciation <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter">(The Penny Hoarder)</span>.
+            Platform "sponsors" identify properties, manage them, and collect rent. You buy shares in a <strong>REIT</strong> (Real Estate Investment Trust) or a specific property LLC, receiving your portion of the income and appreciation <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter"> </span>.
           </p>
           <div className="grid sm:grid-cols-2 gap-6 relative z-10">
             <div className="bg-white/5 border border-white/10 p-6 rounded-2xl">

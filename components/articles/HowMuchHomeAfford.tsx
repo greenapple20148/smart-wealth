@@ -36,7 +36,7 @@ const HowMuchHomeAfford: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             <h4 className="text-blue-900 dark:text-blue-400 font-bold mb-2 mt-0 uppercase tracking-widest text-xs">Housing Cap (28%)</h4>
             <p className="text-3xl font-black text-slate-900 dark:text-white mb-2">$1,167 /mo</p>
             <p className="text-sm text-slate-600 dark:text-slate-400 m-0 leading-relaxed">
-              Max housing payment (PITI + Insurance + PMI) shouldn't exceed 28% of gross income <span className="text-[10px] font-black opacity-50 uppercase">(The Penny Hoarder)</span>.
+              Max housing payment (PITI + Insurance + PMI) shouldn't exceed 28% of gross income <span className="text-[10px] font-black opacity-50 uppercase"> </span>.
             </p>
           </div>
           <div className="p-8 bg-emerald-50 dark:bg-emerald-900/20 border border-emerald-100 dark:border-emerald-500/20 rounded-[2.5rem] shadow-sm">

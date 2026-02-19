@@ -49,7 +49,7 @@ const PreApprovalGuide: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           {[
             { step: "01", title: "Credit Audit", desc: "Review all three bureaus (Equifax, Experian, TransUnion). Dispute errors immediately to protect your rate." },
             { step: "02", title: "Document Vault", desc: "Gather W-2s (2 yrs), bank statements (3 mos), pay stubs (30 days), and ID <span class='text-[10px] font-black opacity-50 uppercase'>(Mintos)</span>." },
-            { step: "03", title: "Lender Recon", desc: "Shop 3+ lenders. Multiple inquiries within 2-4 weeks count as a single hit to your score <span class='text-[10px] font-black opacity-50 uppercase'>(The Penny Hoarder)</span>." },
+            { step: "03", title: "Lender Recon", desc: "Shop 3+ lenders. Multiple inquiries within 2-4 weeks count as a single hit to your score <span class='text-[10px] font-black opacity-50 uppercase'> </span>." },
             { step: "04", title: "The Application", desc: "Submit your financials. The hard pull assesses your capacity and utilization <span class='text-[10px] font-black opacity-50 uppercase'>(NerdWallet)</span>." },
             { step: "05", title: "Receive The Letter", desc: "If approved, you get a letter detailing your max loan, estimated rate, and expiration date." }
           ].map((item, i) => (

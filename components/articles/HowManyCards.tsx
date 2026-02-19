@@ -18,7 +18,7 @@ const HowManyCards: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           <div className="absolute top-0 right-0 p-8 opacity-10 pointer-events-none text-9xl font-black italic">NODE</div>
           <h3 className="text-3xl font-black mb-6 mt-0 text-blue-400 uppercase tracking-tighter">The "Noah's Ark" Minimum</h3>
           <p className="text-lg text-slate-300 leading-relaxed mb-0">
-            You should have a minimum of <strong>two cards</strong> from <strong>two different issuers</strong>. This provides a backup node if one bank has a technical failure or freezes your account unexpectedly <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter">(The Penny Hoarder)</span>.
+            You should have a minimum of <strong>two cards</strong> from <strong>two different issuers</strong>. This provides a backup node if one bank has a technical failure or freezes your account unexpectedly <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter"> </span>.
           </p>
         </div>
 

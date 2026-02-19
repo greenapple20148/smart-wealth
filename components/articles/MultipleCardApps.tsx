@@ -47,7 +47,7 @@ const MultipleCardApps: React.FC<{ onClose: () => void }> = ({ onClose }) => {
 
         <h3 className="text-2xl font-black text-slate-900 dark:text-white mb-8 uppercase tracking-tight">The "App-o-Rama" Edge Case</h3>
         <p className="text-slate-600 dark:text-slate-400 mb-8 leading-relaxed">
-          Enthusiasts sometimes apply for multiple cards in one day to exploit the <strong>reporting delay</strong>. Hard inquiries often take several days or weeks to appear on your report. If you apply for multiple cards before the first inquiry is reflected, subsequent issuers won't see the other attempts <span className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-tighter">(The Penny Hoarder)</span>. This is high-risk and not recommended for beginners.
+          Enthusiasts sometimes apply for multiple cards in one day to exploit the <strong>reporting delay</strong>. Hard inquiries often take several days or weeks to appear on your report. If you apply for multiple cards before the first inquiry is reflected, subsequent issuers won't see the other attempts <span className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-tighter"> </span>. This is high-risk and not recommended for beginners.
         </p>
 
         <h3 className="text-2xl font-black text-slate-900 dark:text-white mb-10 text-center uppercase tracking-widest">Issuer-Specific Guardrails</h3>

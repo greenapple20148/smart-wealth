@@ -55,7 +55,7 @@ const CreditScoreMortgage: React.FC<{ onClose: () => void }> = ({ onClose }) => 
         <div className="p-10 bg-rose-50 dark:bg-rose-950/20 border border-rose-100 dark:border-rose-500/20 rounded-[3rem] mb-16 text-center">
           <h4 className="text-2xl font-black text-rose-900 dark:text-rose-400 mb-4 mt-0 uppercase tracking-tight">The $193,000 Gap</h4>
           <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-0">
-            A low score forces you to pay nearly <strong>$200,000 more</strong> for the exact same $400k home <span className="text-[10px] font-black text-rose-500 uppercase tracking-tighter">(The Penny Hoarder)</span>. People with high 700s save tens of thousands compared to low 600s <span className="text-[10px] font-black text-rose-500 uppercase tracking-tighter"> </span>.
+            A low score forces you to pay nearly <strong>$200,000 more</strong> for the exact same $400k home <span className="text-[10px] font-black text-rose-500 uppercase tracking-tighter"> </span>. People with high 700s save tens of thousands compared to low 600s <span className="text-[10px] font-black text-rose-500 uppercase tracking-tighter"> </span>.
           </p>
         </div>
 

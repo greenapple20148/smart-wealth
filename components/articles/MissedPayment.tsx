@@ -82,7 +82,7 @@ const MissedPayment: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           <div className="absolute right-0 top-0 p-8 opacity-10 group-hover:rotate-12 transition-transform text-8xl font-black italic">0%</div>
           <h4 className="text-xl font-bold text-amber-900 dark:text-amber-400 mb-4 mt-0 uppercase tracking-widest text-xs">The 0% APR Risk</h4>
           <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-0">
-            If you have a promotional 0% APR offer, a single late payment can <strong>terminate the promotion</strong> instantly, triggering back-interest on your entire balance <span className="text-[10px] font-black text-amber-600 uppercase tracking-tighter">(The Penny Hoarder)</span>.
+            If you have a promotional 0% APR offer, a single late payment can <strong>terminate the promotion</strong> instantly, triggering back-interest on your entire balance <span className="text-[10px] font-black text-amber-600 uppercase tracking-tighter"> </span>.
           </p>
         </div>
 

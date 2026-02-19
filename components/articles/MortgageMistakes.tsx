@@ -41,7 +41,7 @@ const MortgageMistakes: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             <div className="absolute -left-6 top-0 w-10 h-10 bg-emerald-600 text-white rounded-full flex items-center justify-center font-black shadow-lg">2</div>
             <h3 className="text-2xl font-black text-slate-900 dark:text-white mt-0 mb-6 uppercase tracking-tight">Not Shopping Around for Rates</h3>
             <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-6">
-              Mortgage interest rates vary from lender to lender. According to Fannie Mae, about a third of homebuyers get only one quote <span className="text-[10px] font-black text-slate-400 uppercase tracking-tighter">(The Penny Hoarder)</span>.
+              Mortgage interest rates vary from lender to lender. According to Fannie Mae, about a third of homebuyers get only one quote <span className="text-[10px] font-black text-slate-400 uppercase tracking-tighter"> </span>.
             </p>
             <div className="bg-emerald-950 text-white p-8 rounded-3xl mb-6 relative overflow-hidden shadow-xl">
                <p className="text-[10px] font-black uppercase text-emerald-400 mb-2">The Quarter-Point Rule</p>

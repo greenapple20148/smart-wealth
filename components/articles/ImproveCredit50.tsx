@@ -76,7 +76,7 @@ const ImproveCredit50: React.FC<{ onClose: () => void }> = ({ onClose }) => {
         <div className="p-10 bg-slate-900 text-white rounded-[3rem] mb-16 border border-white/5">
           <h4 className="text-xl font-black mb-6 mt-0 text-cyan-400 uppercase tracking-widest text-center">Timeline Logic</h4>
           <p className="text-lg text-slate-300 leading-relaxed mb-0 text-center">
-            A 50-point surge typically requires <strong>30 to 90 days</strong> of perfectly optimized behavior <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter">(The Penny Hoarder)</span>. The model updates every billing cycle—stay aggressive and consistent.
+            A 50-point surge typically requires <strong>30 to 90 days</strong> of perfectly optimized behavior <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter"> </span>. The model updates every billing cycle—stay aggressive and consistent.
           </p>
         </div>
 

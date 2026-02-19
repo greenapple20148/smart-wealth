@@ -39,7 +39,7 @@ const BestCreditCards: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             </div>
             <div className="p-8 bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-white/5 rounded-3xl">
               <h4 className="text-lg font-bold text-slate-900 dark:text-white mb-2">Capital One Platinum</h4>
-              <p className="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">Ideal if your main focus is strictly building credit. No annual fee and access to a higher credit line after making the first six payments on time <span className="text-[10px] font-black opacity-50 uppercase">(The Penny Hoarder)</span>.</p>
+              <p className="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">Ideal if your main focus is strictly building credit. No annual fee and access to a higher credit line after making the first six payments on time <span className="text-[10px] font-black opacity-50 uppercase"> </span>.</p>
             </div>
           </div>
         </div>

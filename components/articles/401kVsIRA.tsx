@@ -117,7 +117,7 @@ const Retirement401kVsIRA: React.FC<{ onClose: () => void }> = ({ onClose }) => 
           <div className="absolute right-0 top-0 p-8 opacity-20 pointer-events-none text-9xl">⚖️</div>
           <h4 className="text-2xl font-bold text-amber-900 dark:text-amber-400 mb-4 mt-0 uppercase tracking-widest text-xs">The RMD Checkpoint</h4>
           <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-0">
-            Traditional 401(k)s and IRAs require distributions starting at <strong>age 73</strong>. Roth IRAs, however, have <strong>no mandatory withdrawals</strong> during your lifetime. This makes the Roth IRA the superior tool for multi-generational wealth transfer <span className="text-[10px] font-black text-amber-600 uppercase tracking-tighter">(The Penny Hoarder)</span>.
+            Traditional 401(k)s and IRAs require distributions starting at <strong>age 73</strong>. Roth IRAs, however, have <strong>no mandatory withdrawals</strong> during your lifetime. This makes the Roth IRA the superior tool for multi-generational wealth transfer <span className="text-[10px] font-black text-amber-600 uppercase tracking-tighter"> </span>.
           </p>
         </div>
 

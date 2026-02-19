@@ -40,7 +40,7 @@ const HardInquiries: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             <p className="text-emerald-500 font-black text-[10px] uppercase tracking-widest mb-2">Node Lifecycle</p>
             <h4 className="text-xl font-black text-slate-900 dark:text-white mb-4 uppercase">12-Month Scoring</h4>
             <p className="text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-0 font-medium">
-              Inquiries stay on your report for 24 months, but they only directly affect your score for <strong>one year</strong> <span className="text-[10px] font-black opacity-50 uppercase">(The Penny Hoarder)</span>. Most users see the effect fade completely after just a few months of responsible usage.
+              Inquiries stay on your report for 24 months, but they only directly affect your score for <strong>one year</strong> <span className="text-[10px] font-black opacity-50 uppercase"> </span>. Most users see the effect fade completely after just a few months of responsible usage.
             </p>
           </div>
         </div>

@@ -73,7 +73,7 @@ const BestCards600: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           <div className="absolute right-0 top-0 p-8 opacity-10 group-hover:rotate-12 transition-transform text-8xl font-black italic">!</div>
           <h4 className="text-xl font-bold text-amber-900 dark:text-amber-400 mb-4 mt-0 uppercase tracking-widest text-xs">The Interest Rate Warning</h4>
           <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-0">
-            Cards in the 600-score range typically carry APRs between <strong>25% and 30%</strong>. Carrying a balance on these cards is a high-friction behavior that will stall your wealth building. <strong>Always pay in full</strong> <span className="text-[10px] font-black text-amber-600 uppercase tracking-tighter">(The Penny Hoarder)</span>.
+            Cards in the 600-score range typically carry APRs between <strong>25% and 30%</strong>. Carrying a balance on these cards is a high-friction behavior that will stall your wealth building. <strong>Always pay in full</strong> <span className="text-[10px] font-black text-amber-600 uppercase tracking-tighter"> </span>.
           </p>
         </div>
 
