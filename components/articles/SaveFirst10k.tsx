@@ -68,7 +68,7 @@ const SaveFirst10k: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             <div className="p-8 bg-white/10 rounded-[2.5rem] border border-white/20 group hover:bg-white/20 transition-all">
               <p className="text-[10px] font-black uppercase tracking-widest text-blue-200 mb-4">Income Lever</p>
               <h4 className="text-xl font-bold mb-2">💼 Income Stacking</h4>
-              <p className="text-sm text-blue-100 m-0">Even a $500/month boost from freelance or gig-economy nodes adds <strong>$3,000</strong> to your fund in just six months <span className="text-[10px] font-black text-blue-300 uppercase tracking-tighter">(Gainify)</span>.</p>
+              <p className="text-sm text-blue-100 m-0">Even a $500/month boost from freelance or gig-economy nodes adds <strong>$3,000</strong> to your fund in just six months <span className="text-[10px] font-black text-blue-300 uppercase tracking-tighter"> </span>.</p>
             </div>
           </div>
         </div>

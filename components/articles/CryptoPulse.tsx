@@ -62,7 +62,7 @@ const CryptoPulse: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             <div className="w-16 h-16 bg-white dark:bg-slate-800 rounded-xl flex items-center justify-center text-3xl shadow-sm shrink-0">📊</div>
             <div>
               <p className="font-bold text-slate-900 dark:text-white mb-1">Spot Bitcoin ETFs</p>
-              <p className="text-sm text-slate-500 dark:text-slate-400 m-0">The easiest way to start. Buy symbols like <strong>IBIT</strong> or <strong>FBTC</strong> inside your regular brokerage or IRA <span className="text-[10px] font-black opacity-50 uppercase">(Gainify)</span>. No private keys needed.</p>
+              <p className="text-sm text-slate-500 dark:text-slate-400 m-0">The easiest way to start. Buy symbols like <strong>IBIT</strong> or <strong>FBTC</strong> inside your regular brokerage or IRA <span className="text-[10px] font-black opacity-50 uppercase"> </span>. No private keys needed.</p>
             </div>
           </div>
           <div className="p-6 bg-slate-50 dark:bg-white/5 border border-slate-200 dark:border-white/10 rounded-2xl flex gap-6 items-center">

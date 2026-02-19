@@ -47,7 +47,7 @@ const ImproveCredit50: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             <p className="text-blue-500 font-black text-[10px] uppercase tracking-widest mb-2">Lever 02: Consistency (35%)</p>
             <h4 className="text-xl font-black text-slate-900 dark:text-white mb-4 uppercase">The Autopay Node</h4>
             <p className="text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-6">
-              A single 30-day late payment can delete 100 points instantly <span className="text-[10px] font-black opacity-50 uppercase">(Gainify)</span>. 50 points of growth comes from <strong>zero-failure</strong> payment cycles. 
+              A single 30-day late payment can delete 100 points instantly <span className="text-[10px] font-black opacity-50 uppercase"> </span>. 50 points of growth comes from <strong>zero-failure</strong> payment cycles. 
             </p>
             <div className="flex gap-2">
               <span className="px-3 py-1 bg-blue-50 dark:bg-blue-900/20 text-[10px] font-black text-blue-600 uppercase rounded-lg">Foundational Requirement</span>

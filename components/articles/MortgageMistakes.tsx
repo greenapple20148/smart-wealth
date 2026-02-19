@@ -21,7 +21,7 @@ const MortgageMistakes: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             <div className="absolute -left-6 top-0 w-10 h-10 bg-blue-600 text-white rounded-full flex items-center justify-center font-black shadow-lg">1</div>
             <h3 className="text-2xl font-black text-slate-900 dark:text-white mt-0 mb-6 uppercase tracking-tight">House Hunting Before Pre-Approval</h3>
             <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-6">
-              Looking at a house without mortgage preapproval is a common mistake because shopping for homes is way more fun than getting finances in order. However, preapproval is the most accurate way to determine your budget <span className="text-[10px] font-black text-slate-400 uppercase tracking-tighter">(Gainify)</span>.
+              Looking at a house without mortgage preapproval is a common mistake because shopping for homes is way more fun than getting finances in order. However, preapproval is the most accurate way to determine your budget <span className="text-[10px] font-black text-slate-400 uppercase tracking-tighter"> </span>.
             </p>
             <div className="bg-slate-50 dark:bg-white/5 p-6 rounded-2xl mb-6">
                <p className="text-sm text-slate-600 dark:text-slate-400 m-0">

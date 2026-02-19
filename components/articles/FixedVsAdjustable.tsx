@@ -105,7 +105,7 @@ const FixedVsAdjustable: React.FC<{ onClose: () => void }> = ({ onClose }) => {
               </li>
               <li className="flex items-start gap-3">
                 <span className="text-blue-500 font-bold">•</span>
-                <span>You are a first-time homebuyer who wants simplicity <span className="text-[10px] font-black opacity-50 uppercase">(Gainify)</span>.</span>
+                <span>You are a first-time homebuyer who wants simplicity <span className="text-[10px] font-black opacity-50 uppercase"> </span>.</span>
               </li>
             </ul>
           </div>
@@ -124,7 +124,7 @@ const FixedVsAdjustable: React.FC<{ onClose: () => void }> = ({ onClose }) => {
               </li>
               <li className="flex items-start gap-3">
                 <span className="text-emerald-500 font-bold">•</span>
-                <span>Current interest rates are exceptionally high <span className="text-[10px] font-black opacity-50 uppercase">(Gainify)</span>.</span>
+                <span>Current interest rates are exceptionally high <span className="text-[10px] font-black opacity-50 uppercase"> </span>.</span>
               </li>
             </ul>
           </div>

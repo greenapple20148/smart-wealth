@@ -30,13 +30,13 @@ const IsStockInvestingRisky: React.FC<{ onClose: () => void }> = ({ onClose }) =
 
         <h3 className="text-2xl font-black text-slate-900 dark:text-white mb-8 uppercase tracking-tight">The "Patience" Fallacy</h3>
         <p className="text-slate-600 dark:text-slate-400 mb-8 leading-relaxed">
-          Time does not magically delete risk. Stocks do not get "safer" the longer you hold them—the range of possible outcomes simply widens <span className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-tighter">(Gainify)</span>. 
+          Time does not magically delete risk. Stocks do not get "safer" the longer you hold them—the range of possible outcomes simply widens <span className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-tighter"> </span>. 
         </p>
         <div className="bg-slate-950 text-white p-10 rounded-[3rem] mb-16 shadow-2xl border border-white/5 relative overflow-hidden">
           <div className="absolute top-0 right-0 p-8 opacity-10 pointer-events-none text-9xl font-black italic">!</div>
           <p className="text-[10px] font-black text-blue-400 uppercase tracking-[0.3em] mb-4">Volatility Simulation</p>
           <p className="text-lg text-slate-300 leading-relaxed mb-0">
-            Imagine an account growing from $10k to $20k over 19 years. In year 20, a <strong>20% correction</strong> wipes out $4,000. You still made money, but the tail-risk of a late-stage collapse is a permanent feature of the markets <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter">(Gainify)</span>.
+            Imagine an account growing from $10k to $20k over 19 years. In year 20, a <strong>20% correction</strong> wipes out $4,000. You still made money, but the tail-risk of a late-stage collapse is a permanent feature of the markets <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter"> </span>.
           </p>
         </div>
 

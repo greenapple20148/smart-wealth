@@ -51,7 +51,7 @@ const Retirement401kVsIRA: React.FC<{ onClose: () => void }> = ({ onClose }) => 
               </li>
               <li className="flex flex-col gap-1">
                 <span className="font-bold uppercase text-[10px] text-slate-400">Main Edge</span>
-                <span className="text-slate-700 dark:text-slate-300">Employer Matching & Automatic Payroll Sync <span className="text-[10px] font-black opacity-50">(Gainify)</span>.</span>
+                <span className="text-slate-700 dark:text-slate-300">Employer Matching & Automatic Payroll Sync <span className="text-[10px] font-black opacity-50"> </span>.</span>
               </li>
             </ul>
           </div>

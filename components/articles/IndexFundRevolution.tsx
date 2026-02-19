@@ -28,7 +28,7 @@ const IndexFundRevolution: React.FC<{ onClose: () => void }> = ({ onClose }) => 
           <div className="p-8 bg-slate-900 text-white rounded-[2.5rem] shadow-xl relative overflow-hidden">
              <div className="absolute top-0 right-0 p-4 opacity-10 text-8xl font-black">VTI</div>
              <h4 className="text-2xl font-black mb-4">VTI (Total Market)</h4>
-             <p className="text-sm text-slate-300 mb-6">Invests in ~3,800 companies, including large, mid, and small-caps. It is the ultimate diversification tool <span className="text-[10px] font-black opacity-50 uppercase">(Gainify)</span>.</p>
+             <p className="text-sm text-slate-300 mb-6">Invests in ~3,800 companies, including large, mid, and small-caps. It is the ultimate diversification tool <span className="text-[10px] font-black opacity-50 uppercase"> </span>.</p>
              <div className="bg-white/10 p-4 rounded-xl">
                <p className="text-xs font-black uppercase mb-1">Exposure</p>
                <p className="text-lg font-bold">The Entire US Economy</p>

@@ -58,7 +58,7 @@ const BestCreditCards: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             <div>
               <h4 className="text-xl font-bold text-white mb-2">Discover it® Student Cash Back</h4>
               <p className="text-slate-300 leading-relaxed m-0">
-                Exceptional value with 5% cash back on rotating categories and a match for all cash back earned in your first year <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter">(Gainify)</span>. No annual fee and the first late fee is waived.
+                Exceptional value with 5% cash back on rotating categories and a match for all cash back earned in your first year <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter"> </span>. No annual fee and the first late fee is waived.
               </p>
             </div>
           </div>

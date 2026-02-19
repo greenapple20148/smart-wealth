@@ -63,7 +63,7 @@ const CreditCardChurning: React.FC<{ onClose: () => void }> = ({ onClose }) => {
           <div className="absolute right-0 top-0 p-8 opacity-20 pointer-events-none text-9xl">🖐️</div>
           <h3 className="text-2xl font-bold mb-6 mt-0 text-amber-900 dark:text-amber-400">The Chase "5/24" Rule</h3>
           <p className="text-lg text-slate-700 dark:text-slate-300 leading-relaxed mb-0">
-            This is the most famous rule in churning. Chase will <strong>automatically deny</strong> you for almost any card if you have opened <strong>5 or more</strong> personal credit cards (from any bank) in the last <strong>24 months</strong> <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter">(Gainify)</span>. For this reason, smart churners always start with Chase cards first.
+            This is the most famous rule in churning. Chase will <strong>automatically deny</strong> you for almost any card if you have opened <strong>5 or more</strong> personal credit cards (from any bank) in the last <strong>24 months</strong> <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter"> </span>. For this reason, smart churners always start with Chase cards first.
           </p>
         </div>
 

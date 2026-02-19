@@ -44,7 +44,7 @@ const StudentCreditCards: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             <p className="text-blue-500 font-black text-[10px] uppercase tracking-widest mb-2">Simplicity Pick</p>
             <h4 className="text-xl font-black text-slate-900 dark:text-white mb-4 uppercase">Capital One Quicksilver Student</h4>
             <p className="text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-6">
-              Zero friction. Earn unlimited 1.5% cash back on every purchase. Includes a <strong>$50 welcome bonus</strong> after spending just $100 in your first 3 months <span className="text-[10px] font-black opacity-50 uppercase">(Gainify)</span>.
+              Zero friction. Earn unlimited 1.5% cash back on every purchase. Includes a <strong>$50 welcome bonus</strong> after spending just $100 in your first 3 months <span className="text-[10px] font-black opacity-50 uppercase"> </span>.
             </p>
             <div className="flex gap-2">
               <span className="px-3 py-1 bg-blue-50 dark:bg-blue-900/20 text-[10px] font-black text-blue-600 uppercase rounded-lg">Best for Beginners</span>

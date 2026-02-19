@@ -40,7 +40,7 @@ const BestRothIRA: React.FC<{ onClose: () => void }> = ({ onClose }) => {
               <span className="px-3 py-1 bg-emerald-100 dark:bg-emerald-900/30 text-emerald-700 dark:text-emerald-400 text-[10px] font-black uppercase tracking-widest rounded-full">Best Overall Value</span>
             </div>
             <p className="text-base text-slate-600 dark:text-slate-400 leading-relaxed mb-4">
-              Fidelity stands out for its unbeatable combination of low fees, top-notch investment options, and stellar customer service <span className="text-[10px] font-black opacity-50 uppercase">(Gainify)</span>.
+              Fidelity stands out for its unbeatable combination of low fees, top-notch investment options, and stellar customer service <span className="text-[10px] font-black opacity-50 uppercase"> </span>.
             </p>
             <ul className="text-sm text-slate-500 dark:text-slate-400 space-y-2 mb-0 list-disc pl-5 font-medium">
               <li>ZERO index mutual funds with 0% management fees.</li>

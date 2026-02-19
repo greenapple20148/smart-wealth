@@ -61,7 +61,7 @@ const SideHustleTaxGuide: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             { cat: 'Home Office', desc: 'Deduct a portion of your rent/mortgage and utilities based on the square footage used exclusively for work.' },
             { cat: 'Equipment & Software', desc: 'Laptops, specialized tools, and monthly SaaS subscriptions (Zoom, Adobe, etc.) are 100% deductible.' },
             { cat: 'Marketing', desc: 'Ads on Meta/Google, website hosting, and professional headshots for your brand.' },
-            { cat: 'Mileage', desc: 'In 2026, the standard mileage rate is approximately 68.5 cents per business mile driven <span class="text-[10px] font-black opacity-50 uppercase">(Gainify)</span>.' }
+            { cat: 'Mileage', desc: 'In 2026, the standard mileage rate is approximately 68.5 cents per business mile driven <span class="text-[10px] font-black opacity-50 uppercase"> </span>.' }
           ].map((item, i) => (
             <div key={i} className="flex gap-6 p-6 bg-slate-50 dark:bg-white/5 border border-slate-200 dark:border-white/10 rounded-2xl items-center">
                <div className="w-2 h-2 rounded-full bg-cyan-500 shadow-[0_0_10px_rgba(6,182,212,0.5)]"></div>

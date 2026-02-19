@@ -56,7 +56,7 @@ const BestInvestmentApps: React.FC<{ onClose: () => void }> = ({ onClose }) => {
             <div>
               <h4 className="text-xl font-bold text-white mb-2">Wealthfront</h4>
               <p className="text-slate-300 leading-relaxed m-0">
-                The top choice for hands-off investing. It builds diversified portfolios and handles all trading, rebalancing, and busywork automatically <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter">(Gainify)</span>. Access to over 200 ETFs with a 0.25% annual fee and a $500 starting minimum.
+                The top choice for hands-off investing. It builds diversified portfolios and handles all trading, rebalancing, and busywork automatically <span className="text-[10px] font-black text-slate-500 uppercase tracking-tighter"> </span>. Access to over 200 ETFs with a 0.25% annual fee and a $500 starting minimum.
               </p>
             </div>
             <div className="w-full h-px bg-white/10"></div>

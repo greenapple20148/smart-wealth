@@ -97,10 +97,10 @@ const HowMuchHomeAfford: React.FC<{ onClose: () => void }> = ({ onClose }) => {
         <h3 className="text-2xl font-black text-slate-900 dark:text-white mb-8 text-center uppercase tracking-widest">Increase Your Buying Power</h3>
         <div className="space-y-4 mb-16">
           {[
-            { title: "Kill Debt First", icon: "✂️", desc: "Paying off a $500/mo car loan reduces your DTI by 12% on a $50k salary, instantly boosting your range <span class='text-[10px] font-black opacity-50'>(Gainify)</span>." },
+            { title: "Kill Debt First", icon: "✂️", desc: "Paying off a $500/mo car loan reduces your DTI by 12% on a $50k salary, instantly boosting your range <span class='text-[10px] font-black opacity-50'> </span>." },
             { title: "Optimize Credit Score", icon: "🚀", desc: "Keep balances below 30% and ensure all payments are on time for 6+ months before applying <span class='text-[10px] font-black opacity-50'> </span>." },
             { title: "Assistance Programs", icon: "🎁", desc: "State and county DPA programs offer $5k-$15k in grants or forgivable loans for first-time buyers <span class='text-[10px] font-black opacity-50'>(Change)</span>." },
-            { title: "Market Selection", icon: "🗺️", desc: "Look at areas that are less 'hot' but meet your basic needs to maximize your $50k leverage <span class='text-[10px] font-black opacity-50'>(Gainify)</span>." }
+            { title: "Market Selection", icon: "🗺️", desc: "Look at areas that are less 'hot' but meet your basic needs to maximize your $50k leverage <span class='text-[10px] font-black opacity-50'> </span>." }
           ].map((item, i) => (
             <div key={i} className="flex gap-6 p-6 bg-slate-50 dark:bg-white/5 border border-slate-200 dark:border-white/10 rounded-2xl items-center group">
               <div className="text-2xl bg-white dark:bg-slate-800 w-12 h-12 flex items-center justify-center rounded-xl shadow-sm group-hover:scale-110 transition-transform shrink-0">{item.icon}</div>
