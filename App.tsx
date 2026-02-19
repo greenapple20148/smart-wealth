@@ -14,6 +14,9 @@ import LatestArticles from './components/LatestArticles';
 import ToolsSection from './components/ToolsSection';
 import Footer from './components/Footer';
 import ArticleDispatcher from './components/ArticleDispatcher';
+import { Analytics } from "@vercel/analytics/react";
+
+
 
 const SEARCHABLE_CONTENT = [
   // Core Interface
@@ -330,6 +333,7 @@ const App: React.FC = () => {
           </div>
         </div>
       )}
+      <Analytics />
     </div>
   );
 };
